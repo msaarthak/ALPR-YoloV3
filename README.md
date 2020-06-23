@@ -14,3 +14,7 @@ The code was written in python and executed on Google colab. The first part of t
 
 My supervisor Dr.Shan Du also gave me guidance and gave feedback throughout the developement of this project. Her work can be found here:-
 http://www.ece.ubc.ca/~shand/
+
+All the datasets and files can found at Mehul's repository here :-  https://github.com/mehulgupta2016154/TCS_HUMAIN
+
+A comparison was done between the performance of accuracies of Google OCR vs Microsoft Azure OCR and the results are shown in the FInalReport.pdf
